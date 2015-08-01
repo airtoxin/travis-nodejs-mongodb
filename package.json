@@ -1,0 +1,19 @@
+{
+  "name": "travis-nodejs-mongodb",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "airtoxin <airtoxin@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.14.0",
+    "lodash": "^3.10.0",
+    "mongoose": "^4.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
