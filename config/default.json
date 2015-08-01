@@ -1,0 +1,12 @@
+{
+	"mongo": {
+		"name": "travis_test",
+		"rs_name": "",
+		"servers": [{
+			"host": "localhost",
+			"port": 27017,
+			"user": "",
+			"pswd": ""
+		}]
+	}
+}
